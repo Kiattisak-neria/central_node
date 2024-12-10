@@ -26,6 +26,7 @@
 13. โซลินอย 24VAC x1
 14. ปั่มน้ำ x1
 
+[กลับสู่สารบัญ](#content)
 <br/>
 
 ## <a name="libra"></a> ไลบรารี่ที่ใช้ในโค้ดทั้งหมด
@@ -36,6 +37,7 @@
 5. NTPClient : เพื่อใช้ในการดึกค่าวันเวลาจาก อินเตอเน็ต
 6. Adafruit_SHT31 : เพื่อใช้ในการอ่านค่าเซ็นเซอร์ SHT31
 
+[กลับสู่สารบัญ](#content)
 <br/>
 
 ## <a name="ต่ออุปกร"></a> วงจรในการต่อใช้งาน
@@ -43,5 +45,6 @@
 <p align="center">
    <img src=https://github.com/user-attachments/assets/90c29911-0c9c-41bc-bfcd-63ffa4fb4cce>
 
+[กลับสู่สารบัญ](#content)
 <br/>
 
